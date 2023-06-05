@@ -24,7 +24,7 @@ The job was run on Colab with T4 GPU. Due to resource limitations and extensive 
 
 ```
 **Test single-image prediction**
-![Detection of Benben's Ear](OpenMMLab-Camp/Assignment_1_MMDetection_MMPose/rtmdet_tiny_ear/benben-ear-rtmdet.jpeg)
+![Detection of Benben's Ear](rtmdet_tiny_ear/benben-ear-rtmdet.jpeg)
 
 ## Part 2: RTMPose
 
@@ -41,4 +41,4 @@ The job was run on Colab with T4 GPU. Due to resource limitations and extensive 
  Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets= 20 ] =  0.586
 ```
 **Test single-image prediction**
-![Key point estimation of Benben's Ear](OpenMMLab-Camp/Assignment_1_MMDetection_MMPose/rtmpose-s-ear/benben-ear-rtmpose.jpeg)
+![Key point estimation of Benben's Ear](rtmpose-s-ear/benben-ear-rtmpose.jpeg)
