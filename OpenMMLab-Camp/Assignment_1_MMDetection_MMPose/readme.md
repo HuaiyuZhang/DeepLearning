@@ -24,6 +24,7 @@ The job was run on Colab with T4 GPU. Due to resource limitations and extensive 
 
 ```
 **Test single-image prediction**
+
 <img src="rtmdet_tiny_ear/benben-ear-rtmdet.jpeg" width="200">
 
 ## Part 2: RTMPose
@@ -41,4 +42,5 @@ The job was run on Colab with T4 GPU. Due to resource limitations and extensive 
  Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets= 20 ] =  0.586
 ```
 **Test single-image prediction**
+
 <img src="rtmpose-s-ear/benben-ear-rtmpose.jpeg" width="200">
