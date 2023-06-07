@@ -1,4 +1,4 @@
-# # Assignment 2
+# Assignment 2
 Fruit classification using the MMPretrain tools. ResNet18 with fine-tune on a 30-class fruit dataset.
 
 Validation set performance:
